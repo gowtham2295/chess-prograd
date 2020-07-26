@@ -1,4 +1,4 @@
-onsole.log("js working")
+console.log("js working");
 
 var queen = {
     direction: "S",
